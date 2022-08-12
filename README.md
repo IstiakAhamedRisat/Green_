@@ -19,3 +19,4 @@ git clone https://github.com/IstiakAhamedRisat/Green_
 
 cd Green_
 
+python Green_Lovers.py
