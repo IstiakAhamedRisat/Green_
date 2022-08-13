@@ -19,4 +19,11 @@ git clone https://github.com/IstiakAhamedRisat/Green_
 
 cd Green_
 
-python Green_Lovers.py
+python Green_Lovers.প্য
+
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+Note: (This Tools Are Paid, So You Need Permission To Use This Tools)
+
